@@ -18,6 +18,11 @@ instructions to make samples
 
 The signal samples must generated in grid of lambda1 and lambda2 , change mass of X1 and mX2 too in param_card.dat
 
+(Make sure you have correct couplings on in the model, check param_dat.card attached, use delphes and pythia8 card for modifications
+
+
+
+BaryogenX2N1Maj\_withLeft directory should be placed in models subdirectory of Madgraph folder (Get it from directory tar file in repo)
 
 (  Here in param_card.dat file 
 
