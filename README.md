@@ -13,7 +13,19 @@ Also note : https://answers.launchpad.net/mg5amcnlo/+question/697789
 instructions to make samples
 
 
-The signal samples must generated in grid of lambda1 and lambda2
+The signal samples must generated in grid of lambda1 and lambda2 , change mass of X1 and mX2 too in param_card.dat
+
+
+(  Here in param_card.dat file 
+
+Block np 
+    
+    1 1.000000e+00 # lam1Norm 
+    
+    2 1.000000e+00 # lam2Norm 
+
+)
+    
 
 One needs to edit four files param\_card.dat, run\_card.dat, delphes\_card.dat , pythia8_card.dat
 
