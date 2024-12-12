@@ -6,6 +6,9 @@ Delphes: Delphes-3.4.2
 
 Pythia : 8.244
 
+Madgraph version  : https://drive.google.com/file/d/1H-Kj0y29RlA2NVm1Fo59JpZ_ovQlLvnK/view?usp=sharing
+
+These versions should be downloaded from the official pages ( they are present here for record purposes)
 
 Also note : https://answers.launchpad.net/mg5amcnlo/+question/697789
 
