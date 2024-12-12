@@ -1,14 +1,24 @@
 # repo\_work
 
+Use MG5_aMC_v2_6_7  version should be linked with following versions of 
+
+Delphes: Delphes-3.4.2
+
+Pythia : 8.244
+
+
+Also note : https://answers.launchpad.net/mg5amcnlo/+question/697789
+
+
 instructions to make samples
 
 
 The signal samples must generated in grid of lambda1 and lambda2
 
-One needs to edit three files param\_card.dat, run\_card.dat, delphes\_card.dat 
+One needs to edit four files param\_card.dat, run\_card.dat, delphes\_card.dat , pythia8_card.dat
 
 
-Commands to generate signal samples
+Commands to generate signal samples; 
 
 Signal
 -------------------------------------------------------------------------------------
