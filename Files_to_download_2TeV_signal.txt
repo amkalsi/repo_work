@@ -1,0 +1,96 @@
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p2/Events/run_signal_00p6_00p6_2TeV/tag_1_delphes_events.root  signal_2TeV_00p6_00p6.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p1/Events/run_signal_00p6_00p7_2TeV/tag_1_delphes_events.root  signal_2TeV_00p6_00p7.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p2/Events/run_signal_00p6_00p8_2TeV/tag_1_delphes_events.root  signal_2TeV_00p6_00p8.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p5/Events/run_signal_00p6_00p9_2TeV/tag_1_delphes_events.root  signal_2TeV_00p6_00p9.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p8/Events/run_signal_00p6_0p1_2TeV/tag_1_delphes_events.root  signal_2TeV_00p6_0p1.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p9/Events/run_signal_00p6_0p2_2TeV/tag_1_delphes_events.root  signal_2TeV_00p6_0p2.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p1/Events/run_signal_00p6_0p5_2TeV/tag_1_delphes_events.root  signal_2TeV_00p6_0p5.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p2/Events/run_signal_00p6_1p0_2TeV/tag_1_delphes_events.root  signal_2TeV_00p6_1p0.root
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p5/Events/run_signal_00p7_00p6_2TeV/tag_1_delphes_events.root  signal_2TeV_00p7_00p6.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p0/Events/run_signal_00p7_00p7_2TeV/tag_1_delphes_events.root  signal_2TeV_00p7_00p7.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p2/Events/run_signal_00p7_00p8_2TeV/tag_1_delphes_events.root  signal_2TeV_00p7_00p8.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p5/Events/run_signal_00p7_00p9_2TeV/tag_1_delphes_events.root  signal_2TeV_00p7_00p9.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_2p0/Events/run_signal_00p7_0p1_2TeV/tag_1_delphes_events.root  signal_2TeV_00p7_0p1.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_B/Events/run_signal_00p7_0p2_2TeV/tag_1_delphes_events.root  signal_2TeV_00p7_0p2.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_C/Events/run_signal_00p7_0p5_2TeV/tag_1_delphes_events.root  signal_2TeV_00p7_0p5.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_D/Events/run_signal_00p7_1p0_2TeV/tag_1_delphes_events.root  signal_2TeV_00p7_1p0.root
+
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p8/Events/run_signal_00p8_00p6_2TeV/tag_1_delphes_events.root  signal_2TeV_00p8_00p6.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p5/Events/run_signal_00p8_00p7_2TeV/tag_1_delphes_events.root  signal_2TeV_00p8_00p7.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p2/Events/run_signal_00p8_00p8_2TeV/tag_1_delphes_events.root  signal_2TeV_00p8_00p8.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p1/Events/run_signal_00p8_00p9_2TeV/tag_1_delphes_events.root  signal_2TeV_00p8_00p9.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p1/Events/run_signal_00p8_0p1_2TeV/tag_1_delphes_events.root  signal_2TeV_00p8_0p1.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_C/Events/run_signal_00p8_0p2_2TeV/tag_1_delphes_events.root     signal_2TeV_00p8_0p2.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_2p0/Events/run_signal_00p8_0p5_2TeV/tag_1_delphes_events.root   signal_2TeV_00p8_0p5.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_D/Events/run_signal_00p8_1p0_2TeV/tag_1_delphes_events.root     signal_2TeV_00p8_1p0.root
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p1/Events/run_signal_00p9_00p6_2TeV/tag_1_delphes_events.root  signal_2TeV_00p9_00p6.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_B/Events/run_signal_00p9_00p7_2TeV/tag_1_delphes_events.root  signal_2TeV_00p9_00p7.root                  
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p2/Events/run_signal_00p9_00p8_2TeV/tag_1_delphes_events.root  signal_2TeV_00p9_00p8.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p5/Events/run_signal_00p9_00p9_2TeV/tag_1_delphes_events.root  signal_2TeV_00p9_00p9.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p5/Events/run_signal_00p9_0p1_2TeV/tag_1_delphes_events.root  signal_2TeV_00p9_0p1.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p2/Events/run_signal_00p9_0p2_2TeV/tag_1_delphes_events.root  signal_2TeV_00p9_0p2.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p0/Events/run_signal_00p9_0p5_2TeV/tag_1_delphes_events.root  signal_2TeV_00p9_0p5.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p9/Events/run_signal_00p9_1p0_2TeV/tag_1_delphes_events.root  signal_2TeV_00p9_1p0.root
+
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p2/Events/run_signal_0p1_00p6_2TeV/tag_1_delphes_events.root  signal_2TeV_0p1_00p6.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_B/Events/run_signal_0p1_00p7_2TeV/tag_1_delphes_events.root     signal_2TeV_0p1_00p7.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p1/Events/run_signal_0p1_00p8_2TeV/tag_1_delphes_events.root  signal_2TeV_0p1_00p8.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p2/Events/run_signal_0p1_00p9_2TeV/tag_1_delphes_events.root  signal_2TeV_0p1_00p9.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p5/Events/run_signal_0p1_0p1_2TeV/tag_1_delphes_events.root  signal_2TeV_0p1_0p1.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p8/Events/run_signal_0p1_0p2_2TeV/tag_1_delphes_events.root  signal_2TeV_0p1_0p2.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p9/Events/run_signal_0p1_0p5_2TeV/tag_1_delphes_events.root  signal_2TeV_0p1_0p5.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p2/Events/run_signal_0p1_1p0_2TeV/tag_1_delphes_events.root  signal_2TeV_0p1_1p0.root
+
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p5/Events/run_signal_0p2_00p6_2TeV/tag_1_delphes_events.root  signal_2TeV_0p2_00p6.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_C/Events/run_signal_0p2_00p7_2TeV/tag_1_delphes_events.root     signal_2TeV_0p2_00p7.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_D/Events/run_signal_0p2_00p8_2TeV/tag_1_delphes_events.root     signal_2TeV_0p2_00p8.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_2p0/Events/run_signal_0p2_00p9_2TeV/tag_1_delphes_events.root   signal_2TeV_0p2_00p9.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p1/Events/run_signal_0p2_0p1_2TeV/tag_1_delphes_events.root    signal_2TeV_0p2_0p1.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p5/Events/run_signal_0p2_0p2_2TeV/tag_1_delphes_events.root   signal_2TeV_0p2_0p2.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_D/Events/run_signal_0p2_0p5_2TeV/tag_1_delphes_events.root      signal_2TeV_0p2_0p5.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p0/Events/run_signal_0p2_1p0_2TeV/tag_1_delphes_events.root    signal_2TeV_0p2_1p0.root
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p5/Events/run_signal_0p5_00p6_2TeV/tag_1_delphes_events.root  signal_2TeV_0p5_00p6.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p2/Events/run_signal_0p5_00p7_2TeV/tag_1_delphes_events.root  signal_2TeV_0p5_00p7.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p5/Events/run_signal_0p5_00p8_2TeV/tag_1_delphes_events.root  signal_2TeV_0p5_00p8.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p2/Events/run_signal_0p5_00p9_2TeV/tag_1_delphes_events.root  signal_2TeV_0p5_00p9.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_B/Events/run_signal_0p5_0p1_2TeV/tag_1_delphes_events.root     signal_2TeV_0p5_0p1.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p1/Events/run_signal_0p5_0p2_2TeV/tag_1_delphes_events.root  signal_2TeV_0p5_0p2.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_C/Events/run_signal_0p5_0p5_2TeV/tag_1_delphes_events.root     signal_2TeV_0p5_0p5.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_2p0/Events/run_signal_0p5_1p0_2TeV/tag_1_delphes_events.root   signal_2TeV_0p5_1p0.root
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p0/Events/run_signal_1p0_00p6_2TeV/tag_1_delphes_events.root  signal_2TeV_1p0_00p6.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p2/Events/run_signal_1p0_00p7_2TeV/tag_1_delphes_events.root  signal_2TeV_1p0_00p7.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p5/Events/run_signal_1p0_00p8_2TeV/tag_1_delphes_events.root  signal_2TeV_1p0_00p8.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_1p2/Events/run_signal_1p0_00p9_2TeV/tag_1_delphes_events.root  signal_2TeV_1p0_00p9.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_B/Events/run_signal_1p0_0p1_2TeV/tag_1_delphes_events.root     signal_2TeV_1p0_0p1.root  
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p8/Events/run_signal_1p0_0p2_2TeV/tag_1_delphes_events.root  signal_2TeV_1p0_0p2.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p9/Events/run_signal_1p0_0p5_2TeV/tag_1_delphes_events.root  signal_2TeV_1p0_0p5.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p2/Events/run_signal_1p0_1p0_2TeV/tag_1_delphes_events.root  signal_2TeV_1p0_1p0.root
+
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p2/Events/run_signal_0p15_00p8_2TeV_new/tag_1_delphes_events.root  signal_2TeV_0p15_00p8.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p9/Events/run_signal_0p15_0p1_2TeV_new/tag_1_delphes_events.root  signal_2TeV_0p15_0p1.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p2/Events/run_signal_0p15_0p2_2TeV_new/tag_1_delphes_events.root   signal_2TeV_0p15_0p2.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_B/Events/run_signal_0p15_0p3_2TeV_new/tag_1_delphes_events.root     signal_2TeV_0p15_0p3.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_B/Events/run_signal_0p15_0p5_2TeV_new/tag_1_delphes_events.root     signal_2TeV_0p15_0p5.root 
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p9/Events/run_signal_0p15_1p0_2TeV_new/tag_1_delphes_events.root  signal_2TeV_0p15_1p0.root
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_0p2/Events/run_signal_1p0_0p1_2TeV_new_20tev/tag_1_delphes_events.root  signal_2TeV_1p0_0p1_20tev.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/Signal_00p9/Events/run_signal_1p0_1p0_2TeV_new_20tev/tag_1_delphes_events.root  signal_2TeV_1p0_1p0_20tev.root
