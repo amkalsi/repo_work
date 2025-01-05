@@ -1,0 +1,34 @@
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZLvQQ/Events/run_WZLvQQ_0_100/tag_1_delphes_events.root         WZLvQQ_0_100.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZLvQQ/Events/run_WZLvQQ_100_200/tag_1_delphes_events.root       WZLvQQ_100_200.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZLvQQ/Events/run_WZLvQQ_200_400/tag_1_delphes_events.root       WZLvQQ_200_400.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZLvQQ_new/Events/run_WZLvQQ_400_600/tag_2_delphes_events.root   WZLvQQ_400_600.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZLvQQ/Events/run_WZLvQQ_600_800/tag_1_delphes_events.root       WZLvQQ_600_800.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZLvQQ_new/Events/run_WZLvQQ_800_1200/tag_1_delphes_events.root  WZLvQQ_800_1200.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZLvQQ/Events/run_WZLvQQ_1200_2500/tag_1_delphes_events.root     WZLvQQ_1200_2500.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZLvQQ/Events/run_WZLvQQ_2500_4000/tag_1_delphes_events.root     WZLvQQ_2500_4000.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZLvQQ_new/Events/run_WZLvQQ_4000_inf/tag_1_delphes_events.root  WZLvQQ_4000_inf.root
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZ2L2Q_new/Events/run_WZ2L2Q_0_100/tag_2_delphes_events.root     WZ2L2Q_0_100.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZ2L2Q_new/Events/run_WZ2L2Q_100_200/tag_1_delphes_events.root   WZ2L2Q_100_200.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZ2L2Q_new/Events/run_WZ2L2Q_200_400/tag_2_delphes_events.root   WZ2L2Q_200_400.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZ2L2Q/Events/run_WZ2L2Q_400_600/tag_2_delphes_events.root       WZ2L2Q_400_600.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZ2L2Q_new/Events/run_WZ2L2Q_600_800/tag_1_delphes_events.root   WZ2L2Q_600_800.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZ2L2Q/Events/run_WZ2L2Q_800_1200/tag_1_delphes_events.root      WZ2L2Q_800_1200.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZ2L2Q_new/Events/run_WZ2L2Q_1200_2500/tag_1_delphes_events.root WZ2L2Q_1200_2500.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZ2L2Q/Events/run_WZ2L2Q_2500_4000/tag_1_delphes_events.root     WZ2L2Q_2500_4000.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WZ2L2Q_new/Events/run_WZ2L2Q_4000_inf/tag_1_delphes_events.root  WZ2L2Q_4000_inf.root
+
+
+
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WWLvQQ/Events/run_WWLvQQ_0_100/tag_2_delphes_events.root         WWLvQQ_0_100.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WWLvQQ/Events/run_WWLvQQ_100_200/tag_1_delphes_events.root       WWLvQQ_100_200.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WWLvQQ/Events/run_WWLvQQ_200_400/tag_2_delphes_events.root       WWLvQQ_200_400.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WWLvQQ_ht/Events/run_WWLvQQ_400_600/tag_1_delphes_events.root    WWLvQQ_400_600.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WWLvQQ/Events/run_WWLvQQ_600_800/tag_1_delphes_events.root       WWLvQQ_600_800.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WWLvQQ_ht/Events/run_WWLvQQ_800_1200/tag_1_delphes_events.root   WWLvQQ_800_1200.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WWLvQQ/Events/run_WWLvQQ_1200_2500/tag_1_delphes_events.root     WWLvQQ_1200_2500.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WWLvQQ/Events/run_WWLvQQ_2500_4000/tag_1_delphes_events.root     WWLvQQ_2500_4000.root
+cp /ddn/home/amkalsi60/Cutstom/MG5_aMC_v2_6_7/WWLvQQ_ht/Events/run_WWLvQQ_4000_inf/tag_1_delphes_events.root   WWLvQQ_4000_inf.root
